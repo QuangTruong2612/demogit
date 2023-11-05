@@ -95,7 +95,6 @@
                     <div class="login-form box">
                         <h2 class="form-title text-center">Đăng nhập</h2>
                         <form action="<?php echo $_SERVER["PHP_SELF"];?>">
-                           
 
                             <div class="form-group">
                                 <input type="email" class="form-control" placeholder="Email">

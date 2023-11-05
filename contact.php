@@ -52,7 +52,7 @@
 					<i class="fas fa-times"></i>
 				</button>
 				<ul class="menu">
-					<li class="menu-item"><a href="index">Home</a></li>
+					<li class="menu-item"><a href="index.php">Home</a></li>
 					<li class="menu-item menu-item-has-children">
 						<a href="#" class="js-toggle-sub-menu">Chuyên ngành <i class="fas fa-chevron-down"></i></a>
 						<ul class="sub-menu js-sub-menu">
@@ -64,12 +64,12 @@
 
 						</ul>
 					</li>
-					<li class="menu-item"><a href="contact">Liên hệ</a></li>
+					<li class="menu-item"><a href="contact.php">Liên hệ</a></li>
 					<li class="menu-item menu-item-has-children">
 						<a href="#" class="js-toggle-sub-menu">Tài khoản <i class="fas fa-chevron-down"></i></a>
 						<ul class="sub-menu js-sub-menu">
-							<li class="sub-menu-item"><a href="log-in">Đăng Nhập</a></li>
-							<li class="sub-menu-item"><a href="sign-up">Đăng kí</a></li>
+							<li class="sub-menu-item"><a href="log-in.php">Đăng Nhập</a></li>
+							<li class="sub-menu-item"><a href="sign-up.php">Đăng kí</a></li>
 						</ul>
 					</li>
 				</ul>
@@ -84,7 +84,7 @@
 		<div class="container">
 			<nav aria-label="breadcrumb">
 				<ol class="breadcrumb mb-0">
-					<li class="breadcrumb-item"><a href="index">Trang chủ</a></li>
+					<li class="breadcrumb-item"><a href="index.php">Trang chủ</a></li>
 					<li class="breadcrumb-item" aria-current="page">Liên hệ</li>
 				</ol>
 			</nav>

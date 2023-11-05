@@ -51,7 +51,7 @@
           <i class="fas fa-times"></i>
         </button>
         <ul class="menu">
-          <li class="menu-item"><a href="index">Home</a></li>
+          <li class="menu-item"><a href="index.php">Home</a></li>
           <li class="menu-item menu-item-has-children">
             <a href="#" class="js-toggle-sub-menu">Chuyên ngành <i class="fas fa-chevron-down"></i></a>
             <ul class="sub-menu js-sub-menu">
@@ -63,7 +63,7 @@
 
             </ul>
           </li>
-          <li class="menu-item"><a href="contact">Liên hệ</a></li>
+          <li class="menu-item"><a href="contact.php">Liên hệ</a></li>
           <li class="menu-item menu-item-has-children">
             <a href="#" class="js-toggle-sub-menu">Tài khoản <i class="fas fa-chevron-down"></i></a>
             <ul class="sub-menu js-sub-menu">
@@ -84,7 +84,7 @@
   <div class="container-fluid">
     <div class="container">
       <nav class="breadcrumb bg-transparent m-0 p-0">
-        <a class="breadcrumb-item" href="index">Home</i></a>
+        <a class="breadcrumb-item" href="index.php">Home</i></a>
         <a class="breadcrumb-item" href="#">các khoá học</a>
 
       </nav>
@@ -122,7 +122,7 @@
                 <!-- courses item start -->
                 <div class="col-md-6 col-lg-3">
                   <div class="courses-item">
-                    <a href="course-details" class="link">
+                    <a href="course-details.php" class="link">
                       <div class="courses-item-inner">
                         <div class="img-box">
                           <img src="img/courses/web-development/webdeve.jpeg" alt="course img">
@@ -154,7 +154,7 @@
                 <!-- courses item start -->
                 <div class="col-md-6 col-lg-3">
                   <div class="courses-item">
-                    <a href="course-details" class="link">
+                    <a href="course-details.php" class="link">
                       <div class="courses-item-inner">
                         <div class="img-box">
                           <img src="img/courses/web-development/dataAlgorithms.jpg" alt="course img">
@@ -186,7 +186,7 @@
                 <!-- courses item start -->
                 <div class="col-md-6 col-lg-3">
                   <div class="courses-item">
-                    <a href="course-details" class="link">
+                    <a href="course-details.php" class="link">
                       <div class="courses-item-inner">
                         <div class="img-box">
                           <img src="img/courses/web-development/oop.jpg" alt="course img">
@@ -218,7 +218,7 @@
                 <!-- courses item start -->
                 <div class="col-md-6 col-lg-3">
                   <div class="courses-item">
-                    <a href="course-details" class="link">
+                    <a href="course-details.php" class="link">
                       <div class="courses-item-inner">
                         <div class="img-box">
                           <img src="img/courses/web-development/webdeveloper.jpg" alt="course img">
@@ -256,7 +256,7 @@
                 <!-- courses item start -->
                 <div class="col-md-6 col-lg-3">
                   <div class="courses-item">
-                    <a href="course-details" class="link">
+                    <a href="course-details.php" class="link">
                       <div class="courses-item-inner">
                         <div class="img-box">
                           <img src="img/courses/economic/11.png" alt="course img">
@@ -288,7 +288,7 @@
                 <!-- courses item start -->
                 <div class="col-md-6 col-lg-3">
                   <div class="courses-item">
-                    <a href="course-details" class="link">
+                    <a href="course-details.php" class="link">
                       <div class="courses-item-inner">
                         <div class="img-box">
                           <img src="img/courses/economic/11.png" alt="course img">
@@ -319,7 +319,7 @@
                 <!-- courses item start -->
                 <div class="col-md-6 col-lg-3">
                   <div class="courses-item">
-                    <a href="course-details" class="link">
+                    <a href="course-details.php" class="link">
                       <div class="courses-item-inner">
                         <div class="img-box">
                           <img src="img/courses/economic/22.png" alt="course img">
@@ -350,7 +350,7 @@
                 <!-- courses item start -->
                 <div class="col-md-6 col-lg-3">
                   <div class="courses-item">
-                    <a href="course-details" class="link">
+                    <a href="course-details.php" class="link">
                       <div class="courses-item-inner">
                         <div class="img-box">
                           <img src="img/courses/economic/22.png" alt="course img">
@@ -387,7 +387,7 @@
                 <!-- courses item start -->
                 <div class="col-md-6 col-lg-3">
                   <div class="courses-item">
-                    <a href="course-details" class="link">
+                    <a href="course-details.php" class="link">
                       <div class="courses-item-inner">
                         <div class="img-box">
                           <img src="img/courses/web-development/webdeveloper.jpg" alt="course img">
@@ -481,7 +481,7 @@
                 <!-- courses item start -->
                 <div class="col-md-6 col-lg-3">
                   <div class="courses-item">
-                    <a href="course-details" class="link">
+                    <a href="course-details.php" class="link">
                       <div class="courses-item-inner">
                         <div class="img-box">
                           <img src="img/courses/chuyen/1.jpg" alt="course img">
@@ -511,7 +511,7 @@
                    <!-- courses item start -->
                    <div class="col-md-6 col-lg-3">
                     <div class="courses-item">
-                      <a href="course-details" class="link">
+                      <a href="course-details.php" class="link">
                         <div class="courses-item-inner">
                           <div class="img-box">
                             <img src="img/courses/chuyen/1.jpg" alt="course img">
@@ -541,7 +541,7 @@
                      <!-- courses item start -->
                 <div class="col-md-6 col-lg-3">
                   <div class="courses-item">
-                    <a href="course-details" class="link">
+                    <a href="course-details.php" class="link">
                       <div class="courses-item-inner">
                         <div class="img-box">
                           <img src="img/courses/chuyen/1.jpg" alt="course img">
@@ -571,7 +571,7 @@
                    <!-- courses item start -->
                    <div class="col-md-6 col-lg-3">
                     <div class="courses-item">
-                      <a href="course-details" class="link">
+                      <a href="course-details.php" class="link">
                         <div class="courses-item-inner">
                           <div class="img-box">
                             <img src="img/courses/chuyen/1.jpg" alt="course img">
@@ -609,7 +609,7 @@
                    <!-- courses item start -->
                    <div class="col-md-6 col-lg-3">
                     <div class="courses-item">
-                      <a href="course-details" class="link">
+                      <a href="course-details.php" class="link">
                         <div class="courses-item-inner">
                           <div class="img-box">
                             <img src="img/courses/chuyen/2.jpg" alt="course img">
@@ -639,7 +639,7 @@
                        <!-- courses item start -->
                        <div class="col-md-6 col-lg-3">
                         <div class="courses-item">
-                          <a href="course-details" class="link">
+                          <a href="course-details.php" class="link">
                             <div class="courses-item-inner">
                               <div class="img-box">
                                 <img src="img/courses/chuyen/2.jpg" alt="course img">
@@ -669,7 +669,7 @@
                            <!-- courses item start -->
                    <div class="col-md-6 col-lg-3">
                     <div class="courses-item">
-                      <a href="course-details" class="link">
+                      <a href="course-details.php" class="link">
                         <div class="courses-item-inner">
                           <div class="img-box">
                             <img src="img/courses/chuyen/2.jpg" alt="course img">
@@ -699,7 +699,7 @@
                        <!-- courses item start -->
                        <div class="col-md-6 col-lg-3">
                         <div class="courses-item">
-                          <a href="course-details" class="link">
+                          <a href="course-details.php" class="link">
                             <div class="courses-item-inner">
                               <div class="img-box">
                                 <img src="img/courses/chuyen/2.jpg" alt="course img">
@@ -737,7 +737,7 @@
                    <!-- courses item start -->
                    <div class="col-md-6 col-lg-3">
                     <div class="courses-item">
-                      <a href="course-details" class="link">
+                      <a href="course-details.php" class="link">
                         <div class="courses-item-inner">
                           <div class="img-box">
                             <img src="img/courses/chuyen/3.png" alt="course img">
@@ -767,7 +767,7 @@
                        <!-- courses item start -->
                        <div class="col-md-6 col-lg-3">
                         <div class="courses-item">
-                          <a href="course-details" class="link">
+                          <a href="course-details.php" class="link">
                             <div class="courses-item-inner">
                               <div class="img-box">
                                 <img src="img/courses/chuyen/3.png" alt="course img">
@@ -797,7 +797,7 @@
                            <!-- courses item start -->
                    <div class="col-md-6 col-lg-3">
                     <div class="courses-item">
-                      <a href="course-details" class="link">
+                      <a href="course-details.php" class="link">
                         <div class="courses-item-inner">
                           <div class="img-box">
                             <img src="img/courses/chuyen/3.png" alt="course img">
@@ -827,7 +827,7 @@
                        <!-- courses item start -->
                        <div class="col-md-6 col-lg-3">
                         <div class="courses-item">
-                          <a href="course-details" class="link">
+                          <a href="course-details.php" class="link">
                             <div class="courses-item-inner">
                               <div class="img-box">
                                 <img src="img/courses/chuyen/3.png" alt="course img">

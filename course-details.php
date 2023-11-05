@@ -367,75 +367,7 @@
                             aria-labelledby="course-reviews-tab">
                             <div class="course-reviews box">
                                 <!-- rating summary start -->
-                                <div class="rating-summary">
-                                    <h3 class="mb-4 text-capitalize ">Cảm nhận của học viên</h3>
-                                    <div class="row">
-                                        <div
-                                            class="col-md-4 d-flex align-items-center justify-content-center text-center">
-                                            <div class="rating-box">
-                                                <div class="average-rating">4.5</div>
-                                                <div class="average-stars">
-                                                    <i class="fas fa-star"></i>
-                                                    <i class="fas fa-star"></i>
-                                                    <i class="fas fa-star"></i>
-                                                    <i class="fas fa-star"></i>
-                                                    <i class="fas fa-star-half-alt"></i>
-                                                </div>
-                                                <div class="reviews">230 Reviews</div>
-                                            </div>
-                                        </div>
-                                        <div class="col-md-8">
-                                            <div class="rating-bars">
-                                                <!-- rating bars item star -->
-                                                <div class="rating-bars-item">
-                                                    <div class="star-text">5 Sao</div>
-                                                    <div class="progress">
-                                                        <div class="progress-bar" style="width: 50%;"></div>
-                                                    </div>
-                                                    <div class="percent">50%</div>
-                                                </div>
-                                                <!-- rating bars item end -->
-                                                <!-- rating bars item star -->
-                                                <div class="rating-bars-item">
-                                                    <div class="star-text">4 Sao</div>
-                                                    <div class="progress">
-                                                        <div class="progress-bar" style="width: 30%;"></div>
-                                                    </div>
-                                                    <div class="percent">30%</div>
-                                                </div>
-                                                <!-- rating bars item end -->
-                                                <!-- rating bars item star -->
-                                                <div class="rating-bars-item">
-                                                    <div class="star-text">3 Sao</div>
-                                                    <div class="progress">
-                                                        <div class="progress-bar" style="width: 10%;"></div>
-                                                    </div>
-                                                    <div class="percent">10%</div>
-                                                </div>
-                                                <!-- rating bars item end -->
-                                                <!-- rating bars item star -->
-                                                <div class="rating-bars-item">
-                                                    <div class="star-text">2 Sao</div>
-                                                    <div class="progress">
-                                                        <div class="progress-bar" style="width: 7%;"></div>
-                                                    </div>
-                                                    <div class="percent">7%</div>
-                                                </div>
-                                                <!-- rating bars item end -->
-                                                <!-- rating bars item star -->
-                                                <div class="rating-bars-item">
-                                                    <div class="star-text">1 Sao</div>
-                                                    <div class="progress">
-                                                        <div class="progress-bar" style="width: 3%;"></div>
-                                                    </div>
-                                                    <div class="percent">3%</div>
-                                                </div>
-                                                <!-- rating bars item end -->
-
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
+                               
                                 <!-- rating summary end -->
 
                                 <!-- reviews filter start -->

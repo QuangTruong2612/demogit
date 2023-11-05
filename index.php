@@ -22,11 +22,11 @@
   <link rel="stylesheet" href="css/responsive.css">
   <link rel="stylesheet" class="js-glass-style" href="css/glass.css" disabled>
 
-  <link rel="stylesheet" class="js-color-style" href="css/colors/color-2.css">
+  <link rel="stylesheet" class="js-color-style" href="css/colors/color-1.css">
 
 
 
-<body class="t-dark">
+<body class="t-white">
   <!-- page loader start -->
   <div class="page-loader js-page-loader">
     <div></div>
@@ -179,7 +179,7 @@
           <!-- courses item start -->
           <div class="col-md-6 col-lg-3">
             <div class="courses-item">
-              <a href="course-details" class="link">
+              <a href="course-details.php" class="link">
                 <div class="courses-item-inner">
                   <div class="img-box">
                     <img src="img/courses/web-development/webdeve.jpeg" alt="course img">
@@ -211,7 +211,7 @@
           <!-- courses item start -->
           <div class="col-md-6 col-lg-3">
             <div class="courses-item">
-              <a href="course-details" class="link">
+              <a href="course-details.php" class="link">
                 <div class="courses-item-inner">
                   <div class="img-box">
                     <img src="img/courses/web-development/dataAlgorithms.jpg" alt="course img">
@@ -243,7 +243,7 @@
           <!-- courses item start -->
           <div class="col-md-6 col-lg-3">
             <div class="courses-item">
-              <a href="course-details" class="link">
+              <a href="course-details.php" class="link">
                 <div class="courses-item-inner">
                   <div class="img-box">
                     <img src="img/courses/web-development/oop.jpg" alt="course img">
@@ -275,7 +275,7 @@
           <!-- courses item start -->
           <div class="col-md-6 col-lg-3">
             <div class="courses-item">
-              <a href="course-details" class="link">
+              <a href="course-details.php" class="link">
                 <div class="courses-item-inner">
                   <div class="img-box">
                     <img src="img/courses/web-development/webdeveloper.jpg" alt="course img">
@@ -305,7 +305,7 @@
           <!-- courses item end-->
           <div class="row">
             <div class="col-12 text-center mt-3">
-              <a href="courses" class="btn btn-theme">Xem tất cả</a>
+              <a href="courses.php" class="btn btn-theme">Xem tất cả</a>
             </div>
           </div>
 
