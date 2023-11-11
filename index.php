@@ -26,7 +26,7 @@
 
 
 
-<body class="t-white">
+<body class="">
   <!-- page loader start -->
   <div class="page-loader js-page-loader">
     <div></div>
@@ -68,7 +68,7 @@
 
               </ul>
             </li>
-            <li class="menu-item"><a href="contact">Liên hệ</a></li>
+            <li class="menu-item"><a href="contact.php">Liên hệ</a></li>
             <li class="menu-item menu-item-has-children">
               <a href="#" class="js-toggle-sub-menu">Tài khoản <i class="fas fa-chevron-down"></i></a>
               <ul class="sub-menu js-sub-menu">
@@ -515,7 +515,7 @@
     </div>
     <div class="style-switcher-item">
       <div class="form-check form-switch">
-        <input class="form-check-input js-dark-mode" type="checkbox" role="switch" id="dark-mode">
+        <input class="form-check-input js-dark-mode" type="checkbox" role="switch" id="dark-mode" checked />
         <label class="form-check-label" for="dark-mode">Chế độ tối</label>
       </div>
     </div>

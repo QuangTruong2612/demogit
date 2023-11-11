@@ -26,7 +26,7 @@
 
 </head>
 
-<body class="t-dark">
+<body class="t-white">
 	<!-- page loader start -->
 	<div class="page-loader js-page-loader">
 		<div></div>
@@ -235,7 +235,7 @@
 		</div>
 		<div class="style-switcher-item">
 			<div class="form-check form-switch">
-				<input class="form-check-input js-dark-mode" type="checkbox" role="switch" id="dark-mode">
+				<input class="form-check-input js-dark-mode" type="checkbox" role="switch" id="dark-mode" checked/>
 				<label class="form-check-label" for="dark-mode">Chế độ tối</label>
 			</div>
 		</div>
